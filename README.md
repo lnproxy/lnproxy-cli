@@ -6,7 +6,7 @@ takes two invoices and makes sure that their payment hashes match.
 
 ## Example usage:
 
-Adapted from [raspiblitz[(https://github.com/openoms/raspiblitz/blob/3875539468831342a9adeed52d4337af0dcec8ab/home.admin/_commands.sh#L456):
+Adapted from [raspiblitz](https://github.com/openoms/raspiblitz/blob/3875539468831342a9adeed52d4337af0dcec8ab/home.admin/_commands.sh#L456):
 
 ```
 function lnproxy() {
